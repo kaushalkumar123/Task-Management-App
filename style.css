@@ -1,0 +1,11 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;/* Box model*/
+
+}
+
+body{
+    font-family: "Prosto One",sans-serif;
+    background-color: #3e609a;
+}
